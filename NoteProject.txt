@@ -1,0 +1,20 @@
+Triển khai Nagios trên Centos
+
+https://maytinhlion.com/trien-khai-he-thong-monitor-voi-nagios-check_mk-pnp4ngaios/
+
+Triển khai nagios trên Unbuntu
+
+https://wiki.tino.org/nagios-la-gi/
+
+https://linuxhint.com/install_nagios_ubuntu/
+
+Lý thuyết:
+https://www.forum.vnpro.org/forum/gi%E1%BA%A3i-ph%C3%A1p-m%E1%BA%A1ng/unix/420752-monitor-h%E1%BB%87-th%E1%BB%91ng-v%E1%BB%9Bi-nagios-ph%E1%BA%A7n-1
+
+client windows
+http://nvkhoiit.blogspot.com/2013/12/giam-sat-cac-may-tinh-windows-bang.html
+
+config to send
+https://digitalavenue.dev/How_To_Send_Alerts_From_Nagios_Using_Gmail/
+https://www.unixmen.com/send-alerts-nagios-core-using-gmail-yahoo/
+ 
