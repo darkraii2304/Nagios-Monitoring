@@ -12,7 +12,7 @@ Nagios là một hệ thống giám sát hạ tầng mạng và dịch vụ m�
 ## Mô hình triển khai
 ![image](https://user-images.githubusercontent.com/93479388/184068459-4d7987e1-820f-482c-b48a-929d0ce33bfa.png)
 ## Demo
-Link video: https://youtu.be/AsiZtFV_yR8
+Link video: https://youtu.be/AsiZtFV_yR8, https://youtu.be/S2BBMlA6-aM
 Compare with Prometheus: https://youtu.be/Ix0rjIKWltw
 
 
